@@ -5,5 +5,7 @@ public class Test {
 		 return (0);
 			
 	}
-
+int kittu() {
+	return (1);
+}
 }
